@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- colors for general appearance -->
+    <color name="colorPrimary1">#3F51B5</color>
+    <color name="colorPrimaryDark1">#303F9F</color>
+    <color name="colorPrimaryLight">#C5CAE9</color>
+    <color name="colorAccent1">#303F9F</color>
+
+    <!-- colors for task priority selection -->
+    <color name="materialRed">#E74C3C</color>
+    <color name="materialOrange">#E67E22</color>
+    <color name="materialYellow">#F1C40F</color>
+
+    <color name="colorPrimary">#dd3333</color>
+    <color name="colorPrimaryDark">#d11616</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorGrapeFruit">#Ed5565</color>
+    <color name="colorGrapeFruitDark">#DA4453</color>
+    <color name="colorBitterSweet">#FC6E51</color>
+    <color name="colorBitterSweetDark">#E9573F</color>
+    <color name="colorFlower">#A99E4F0D</color>
+    <color name="colorBrown">#C89E4F0D</color>
+    <color name="colorFlowerDark">#FF9800</color>
+    <color name="colorGrass">#C6009688</color>
+    <color name="colorGrassDark">#009688</color>
+    <color name="colorGrayJeans">#9E7C828B</color>
+    <color name="colorGrayJeansDark">#7C828B</color>
+    <color name="colorLavander">#Ac92ec</color>
+    <color name="colorLavanderDark">#967adc</color>
+    <color name="colorMint">#48cfad</color>
+    <color name="colorMintDark">#BC009688</color>
+    <color name="colorAqua">#4fc1e9</color>
+    <color name="colorAquaDark">#3bafda</color>
+    <color name="colorPinkrose">#ec87c0</color>
+    <color name="colorPinkroseDark">#D770ad</color>
+</resources>
